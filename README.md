@@ -16,76 +16,137 @@
 
 <p>
   <img src="https://img.shields.io/badge/Interview-Req%20Step%201%20Complete-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interview-Req%20Step%202%20Complete-success?style=for-the-badge" />
 </p>
 
 ---
 
-## 📌 Project Overview
+# 📌 Project Overview
 
-This repository documents the setup of an **AI-native development environment** using modern AI-assisted tools.
+This repository documents the development of an **AI-native research and execution workflow** using modern AI-assisted tooling, structured knowledge systems, and semantic retrieval pipelines.
 
-The objective was not just installation, but configuring a **high-leverage workspace** where AI tools assist in reasoning, execution, and iteration within the software development lifecycle.
+The objective was not simply using AI tools, but building a **high-leverage operating system for research, synthesis, and content production** — combining:
+
+- AI-assisted development workflows
+- Structured research systems
+- Semantic search infrastructure
+- Annotation-driven knowledge synthesis
+
+The repository evolved in two phases:
+
+1. **Step 1 → AI-native development environment setup**
+2. **Step 2 → AI-powered SEO content production research system**
 
 ---
 
-## 🛠️ Tools Installed
+# 🛠️ Tools & Systems Used
+
+## Development & AI Stack
 
 - **Cursor IDE** – AI-first development environment with deep codebase awareness  
-- **Claude Code Add-on** – Used for reasoning, debugging, and structured problem-solving  
-- **Codex Add-on** – Used for fast autocomplete and implementation support  
+- **Claude Code Add-on** – Reasoning, debugging, structured synthesis  
+- **Codex Add-on** – Fast implementation and autocomplete support  
+
+## Research & Knowledge Stack
+
+- **yt-dlp** – Automated YouTube transcript collection  
+- **Python transcript cleaning pipeline** – SRT → normalized Markdown  
+- **sentence-transformers** (`all-MiniLM-L6-v2`) – Semantic embeddings and retrieval  
+- **Structured Markdown corpus** – Annotation-first research architecture  
 
 ---
 
-## 📋 Steps Completed
+# 📋 Step 1 — AI-Native Workspace Setup
 
-1. Installed Cursor IDE and set it up as the primary development environment  
+## Completed Tasks
+
+1. Installed Cursor IDE and configured it as the primary environment  
 2. Installed Claude Code extension and completed authentication  
 3. Installed Codex extension and completed authentication  
 4. Created a public GitHub repository  
 5. Opened the repository in Cursor and initiated indexing  
-6. Created and structured this README.md file  
+6. Structured the repository and documentation  
 7. Committed and pushed the project to GitHub  
 
 ---
 
-## ⚠️ Issues Faced & Solutions
+# 📚 Step 2 — AI-Powered SEO Content Production Research Project
 
-### 1. Authentication Redirect Failure (Claude Code)
-- **Issue:** Browser redirect failed during login  
-- **Solution:** Completed authentication manually using CLI-based token injection  
+Built a structured research system mapping how elite practitioners approach:
 
-### 2. Indexing Latency (Cursor)
-- **Issue:** AI tools were not immediately recognizing project context  
-- **Solution:** Triggered manual re-indexing and adjusted settings to prioritize local file context  
+> **AI-powered SEO content production for B2B SaaS in 2026**
 
----
+This was not a generic “SEO trends” collection.
 
-## 🧠 Approach
+The project focused specifically on the intersection of:
 
-While completing the task, I approached the setup as a **system design problem rather than a checklist task**:
-
-- Ensured AI tools had proper context access  
-- Optimized for faster iteration and response quality  
-- Focused on building a reusable AI-assisted workflow  
+- AI-assisted content systems
+- SEO/GEO/AEO evolution
+- LLM visibility and retrieval
+- B2B SaaS editorial strategy
+- AI search measurement
+- Semantic authority systems
 
 ---
 
-## 🚀 Skills Demonstrated
+## 🎯 Research Scope
 
-- AI tool integration within development workflows  
-- Problem-solving across UI and CLI layers  
-- Structured technical documentation  
-- Systems thinking and workflow optimization  
+The research base includes:
+
+- **30+ deeply annotated LinkedIn posts**
+- **10 carefully curated experts**
+- **YouTube transcripts**
+- **Original research PDFs**
+- **Semantic vector search over the full corpus**
+
+Every post was manually structured with:
+
+- Core claim
+- Evidence type
+- Cross-references
+- Playbook implication
+
+The goal was to create a system usable for **future strategy synthesis**, not just passive storage.
 
 ---
 
-## 🔗 Interactive Version
+# 🧠 Experts Curated
 
-- Open `index.html` in this repository  
-- View live via GitHub Pages if enabled  
+The 10 experts were selected based on:
+
+- Active operational experience
+- Public research and frameworks
+- AI + SEO relevance
+- Recent publishing activity
+- Proven execution credibility
+
+| Expert | Strategic Lens |
+|---|---|
+| Kevin Indig | Data & AI search analysis |
+| Eli Schwartz | Product-led SEO strategy |
+| Aleyda Solís | Editorial curation systems |
+| Bernard Huang | AEO/GEO tooling |
+| Michael King | Entity SEO & retrieval |
+| Ross Hudgens | Editorial production systems |
+| Andrew Holland | Brand mention authority |
+| Alex Birkett | Research-driven SEO |
+| Tim Soulo | Practical SEO execution |
+| Tom Critchlow | Executive SEO thinking |
 
 ---
 
-## ✅ Status
+# 🗂️ Repository Architecture
 
-**Project Step 1 Complete**
+```text
+research/
+├── sources.md
+├── synthesis.md
+├── ANNOTATION_TEMPLATE.md
+├── linkedin-posts/
+├── youtube-transcripts/
+└── other/
+
+scripts/
+├── fetch_youtube.sh
+├── clean_transcripts.py
+└── build_search_index.py
