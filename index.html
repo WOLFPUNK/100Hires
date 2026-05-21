@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>AI Dev Environment Setup — Sivakrishnan M</title>
+  <title>AI-Native Interview Workflow — Sivakrishnan M</title>
 
   <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800&family=DM+Mono&family=Lora&display=swap" rel="stylesheet">
 
@@ -36,6 +36,14 @@
       color: #6b7a99;
       margin-top: 40px;
       margin-bottom: 15px;
+    }
+
+    h3 {
+      font-family: 'Syne', sans-serif;
+      font-size: 1.5rem;
+      margin-top: 30px;
+      margin-bottom: 12px;
+      color: #e2e8f0;
     }
 
     .subtitle {
@@ -81,11 +89,134 @@
       margin-bottom: 8px;
     }
 
+    .step-divider {
+      margin: 60px 0 30px;
+      padding-top: 40px;
+      border-top: 1px solid #252a38;
+    }
+
+    .step-label {
+      display: inline-block;
+      padding: 4px 10px;
+      background: #1a1f2e;
+      border: 1px solid #34d399;
+      color: #34d399;
+      border-radius: 4px;
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      letter-spacing: 0.05em;
+      margin-bottom: 12px;
+    }
+
+    .step-title {
+      font-family: 'Syne', sans-serif;
+      font-size: 2rem;
+      margin: 0 0 10px 0;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 15px 0;
+      font-family: 'DM Mono', monospace;
+      font-size: 13px;
+    }
+
+    th, td {
+      text-align: left;
+      padding: 10px 12px;
+      border-bottom: 1px solid #252a38;
+    }
+
+    th {
+      background: #13161d;
+      color: #6b7a99;
+      text-transform: uppercase;
+      font-size: 11px;
+      letter-spacing: 0.05em;
+    }
+
+    td:first-child {
+      color: #6b7a99;
+      width: 30px;
+    }
+
+    td strong {
+      color: #e2e8f0;
+    }
+
+    .lens-tag {
+      display: inline-block;
+      padding: 2px 8px;
+      background: #1a1f2e;
+      border: 1px solid #4f9eff;
+      color: #4f9eff;
+      border-radius: 3px;
+      font-size: 11px;
+    }
+
+    pre {
+      background: #13161d;
+      border: 1px solid #252a38;
+      border-radius: 8px;
+      padding: 16px;
+      overflow-x: auto;
+      font-family: 'DM Mono', monospace;
+      font-size: 12px;
+      line-height: 1.5;
+      color: #cbd5e1;
+    }
+
+    code {
+      font-family: 'DM Mono', monospace;
+      background: #1a1f2e;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 0.9em;
+      color: #cbd5e1;
+    }
+
+    pre code {
+      background: transparent;
+      padding: 0;
+    }
+
+    .tensions {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .tensions li {
+      padding: 12px 16px;
+      background: #13161d;
+      border-left: 3px solid #4f9eff;
+      margin-bottom: 10px;
+      border-radius: 0 6px 6px 0;
+    }
+
     .footer {
       margin-top: 50px;
       text-align: center;
       color: #6b7a99;
       font-size: 0.9rem;
+    }
+
+    .repo-link {
+      display: inline-block;
+      margin-top: 16px;
+      padding: 10px 16px;
+      background: #1a1f2e;
+      border: 1px solid #4f9eff;
+      color: #4f9eff;
+      border-radius: 6px;
+      text-decoration: none;
+      font-family: 'DM Mono', monospace;
+      font-size: 13px;
+    }
+
+    .repo-link:hover {
+      background: #4f9eff;
+      color: #0d0f14;
     }
   </style>
 </head>
@@ -105,14 +236,22 @@
     <a href="https://linkedin.com/in/m-sivakrishnan" target="_blank">LinkedIn</a>
     <a href="mailto:sivakrishnanm3979@gmail.com">Email</a>
     <span>Focus: AI Systems & GTM</span>
-    <span class="status">Step 1 Complete</span>
+    <span class="status">Step 2 Complete</span>
   </div>
 
   <h2>Project Overview</h2>
   <p>
-    This project documents the setup of an AI-native development environment using modern AI-assisted tools.
-    The goal was to configure a high-leverage workspace where AI supports reasoning, execution, and iteration.
+    This repository documents an <strong>AI-native interview workflow</strong> — from configuring the environment (Step 1) to building a real research project using those tools (Step 2). The goal: a high-leverage workspace where AI assists in reasoning, execution, and iteration across real work, not just code.
   </p>
+
+  <!-- ============================================ -->
+  <!-- STEP 1 -->
+  <!-- ============================================ -->
+
+  <div class="step-divider">
+    <span class="step-label">STEP 1 — ENVIRONMENT</span>
+    <h2 class="step-title">AI-Native Development Setup</h2>
+  </div>
 
   <h2>Tools Installed</h2>
   <ul>
@@ -146,13 +285,6 @@
     <p><b>Solution:</b> Triggered manual re-index and adjusted settings</p>
   </div>
 
-  <h2>Assignment Coverage</h2>
-  <p>
-    ✔ Tools installed<br>
-    ✔ Steps completed<br>
-    ✔ Issues faced and resolved
-  </p>
-
   <h2>Approach</h2>
   <p>
     This setup was treated as a system design problem — focusing on workflow efficiency,
@@ -167,8 +299,174 @@
     <li>Systems thinking</li>
   </ul>
 
+  <!-- ============================================ -->
+  <!-- STEP 2 -->
+  <!-- ============================================ -->
+
+  <div class="step-divider">
+    <span class="step-label">STEP 2 — RESEARCH PROJECT</span>
+    <h2 class="step-title">AI-Powered SEO Content Production Research</h2>
+  </div>
+
+  <p>
+    A curated research base mapping how the strongest practitioners think about AI-powered SEO content production for <strong>B2B SaaS</strong> in 2026.
+  </p>
+
+  <h2>What This Is</h2>
+  <p>
+    <strong>30+ deeply annotated LinkedIn posts</strong> across <strong>10 carefully selected experts</strong>, plus YouTube transcripts, original research PDFs, and a semantic search index over the entire corpus.
+  </p>
+  <p>
+    Every post has structured annotations — claim, evidence type, cross-references, and playbook implication — so the material is ready to support a real playbook later, not just sit in a folder.
+  </p>
+  <p>
+    The bias throughout: <strong>depth over volume</strong>. A handful of sharp posts from a practitioner beat twenty surface-level ones. Same logic applied to experts: curate aggressively, defend each pick.
+  </p>
+
+  <h2>Why These 10 Experts</h2>
+  <p>
+    I rejected the standard "top SEO influencers" Google results — they optimize for follower counts and authority, not for the specific intersection of <strong>AI + content production + B2B SaaS</strong>. My selection bar:
+  </p>
+  <ul>
+    <li><strong>Ships work</strong> — runs an agency, builds a tool, or operates in-house at scale</li>
+    <li><strong>Public content stream</strong> — LinkedIn, YouTube, podcast, or newsletter</li>
+    <li><strong>At least one of:</strong> original research, named clients, owned product, or 5+ years operating experience</li>
+    <li><strong>Active in the last 90 days</strong></li>
+  </ul>
+
+  <p>The 10 span six strategic lenses on purpose:</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Expert</th>
+        <th>Lens</th>
+        <th>Why elite</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>1</td><td><strong>Kevin Indig</strong></td><td><span class="lens-tag">Data</span></td><td>250+ AI Mode sessions analyzed; original LLM citation studies</td></tr>
+      <tr><td>2</td><td><strong>Eli Schwartz</strong></td><td><span class="lens-tag">Strategy</span></td><td>Author of <em>Product-Led SEO</em>; strategic counterweight to AI hype</td></tr>
+      <tr><td>3</td><td><strong>Aleyda Solís</strong></td><td><span class="lens-tag">Curation</span></td><td>SEOFOMO (39K subs); creator of authority.md framework</td></tr>
+      <tr><td>4</td><td><strong>Bernard Huang</strong></td><td><span class="lens-tag">Tool</span></td><td>Founder of Clearscope; clearest AEO/GEO breakdowns</td></tr>
+      <tr><td>5</td><td><strong>Michael King</strong></td><td><span class="lens-tag">Technical</span></td><td>Most rigorous on entity SEO + LLM information retrieval</td></tr>
+      <tr><td>6</td><td><strong>Ross Hudgens</strong></td><td><span class="lens-tag">Production</span></td><td>Authoring Wiley's GEO book (Q4 2026); design-led editorial at scale</td></tr>
+      <tr><td>7</td><td><strong>Andrew Holland</strong></td><td><span class="lens-tag">Ranks-first</span></td><td>200K+ page-one rankings; brand-mentions thesis</td></tr>
+      <tr><td>8</td><td><strong>Alex Birkett</strong></td><td><span class="lens-tag">Research</span></td><td>Omniscient's 43K+ LLM citations study for B2B SaaS</td></tr>
+      <tr><td>9</td><td><strong>Tim Soulo</strong></td><td><span class="lens-tag">Practical</span></td><td>Ahrefs YouTube — highest-signal practical SEO channel</td></tr>
+      <tr><td>10</td><td><strong>Tom Critchlow</strong></td><td><span class="lens-tag">Executive</span></td><td>"AI search is four distinct problems"; the SEO MBA</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Repository Structure</h2>
+<pre><code>Research/
+├── sources.md                  ← 10 experts with rationale + channels
+├── synthesis.md                ← synthesized insights and findings
+├── ANNOTATION_TEMPLATE.md      ← annotation framework
+├── linkedin-posts/             ← 30+ posts, all annotated
+│   ├── kevin-indig/
+│   ├── eli-schwartz/
+│   ├── aleyda-solis/
+│   ├── bernard-huang/
+│   ├── michael-king/
+│   ├── ross-hudgens/
+│   ├── andrew-holland/
+│   ├── alex-birkett/
+│   ├── tim-soulo/
+│   └── tom-critchlow/
+├── youtube-transcripts/        ← cleaned transcripts by author
+└── other/
+    ├── links.md                ← newsletters, books, tools, podcasts
+    ├── search-examples.md      ← example semantic search outputs
+    └── *.pdf                   ← original research (Omniscient)
+scripts/
+├── fetch_youtube.sh            ← yt-dlp wrapper for captions
+├── clean_transcripts.py        ← SRT → clean Markdown
+└── build_search_index.py       ← semantic search over the corpus</code></pre>
+
+  <h2>What's Collected</h2>
+  <ul>
+    <li><strong>30+ LinkedIn posts</strong> — organized by author, every one with structured annotation</li>
+    <li><strong>YouTube transcripts</strong> — collected via <code>yt-dlp</code>, cleaned from SRT to Markdown</li>
+    <li><strong>Original research PDFs</strong> — Omniscient Digital's LLM citation studies (43,000+ and 23,000+ analyzed)</li>
+    <li><strong>Semantic search index</strong> — vector embeddings over the corpus using sentence-transformers</li>
+    <li><strong>Links file</strong> — newsletters, books, tools, podcasts from the 10 experts</li>
+  </ul>
+
+  <h2>Annotation Framework</h2>
+  <p>Every post follows the same structure — claim, evidence type, cross-references, playbook implication. This forces explicit thinking: "this is about AI search" is not a claim; "aggregate AI dashboards mask 2-of-3 engine invisibility" is.</p>
+
+<pre><code>---
+author: [name]
+url: [LinkedIn URL]
+topic: [short]
+tags: [tag1, tag2, tag3]
+---
+
+[Full post body]
+
+## Annotation
+**Claim:** [Specific assertion in one sentence]
+**Evidence type:** anecdote | data | framework | opinion | case-study
+**Cross-references:**
+- Agrees with: [author/file]
+- Disagrees with: [author/file]
+- Extends: [author/file]
+**Playbook implication:** [1-2 sentences]</code></pre>
+
+  <h2>Collection Method</h2>
+
+  <div class="card">
+    <strong>YouTube transcripts</strong> — automated pipeline
+    <p><code>yt-dlp</code> pulls auto-generated captions as SRT, a Python script strips timestamps and emits clean Markdown.</p>
+  </div>
+
+  <div class="card">
+    <strong>LinkedIn posts</strong> — manual structured collection
+    <p>LinkedIn has no public posts API. Collected the highest-signal posts per author by hand: opened each profile's Activity tab, filtered for substantive posts (skipping reshares, event announcements, job changes), and structured each into the annotation template via Claude Code.</p>
+  </div>
+
+  <h2>Semantic Search Over the Corpus</h2>
+  <p>The repo includes a semantic search index built with <code>sentence-transformers/all-MiniLM-L6-v2</code>. Lets you query the corpus by meaning, not just keywords — useful when synthesizing across experts.</p>
+
+<pre><code>python scripts/build_search_index.py
+python scripts/build_search_index.py "how do experts measure AI citation success"</code></pre>
+
+  <h2>Why The Material Supports a Real Playbook</h2>
+  <p>The posts surface real disagreements between experts — not just overlapping consensus. A few that emerged while collecting:</p>
+
+  <ul class="tensions">
+    <li><strong>Editorial SEO is dying</strong> (Schwartz) vs. <strong>design-led editorial is the moat</strong> (Hudgens)</li>
+    <li><strong>Aggregate AI visibility dashboards</strong> (Huang / tool vendors) vs. <strong>per-engine measurement</strong> (Indig, Critchlow)</li>
+    <li><strong>Brand mentions beat links</strong> (Holland) vs. <strong>entity graphs are the retrieval signal</strong> (King)</li>
+  </ul>
+
+  <p>These tensions are what a real playbook would resolve. The annotated posts + semantic search make it possible to pull supporting evidence on both sides of any debate.</p>
+
+  <a href="https://github.com/WOLFPUNK/100Hires/tree/main/Research" class="repo-link" target="_blank">→ View the research repo on GitHub</a>
+
+  <!-- ============================================ -->
+  <!-- STATUS -->
+  <!-- ============================================ -->
+
+  <h2>Assignment Coverage</h2>
+  <div class="card">
+    ✔ <strong>Step 1:</strong> AI-native development environment configured<br>
+    ✔ <strong>Step 2:</strong> AI-powered SEO content research project shipped
+    <ul style="margin-top: 12px;">
+      <li>10 experts curated across 6 strategic lenses</li>
+      <li>30+ LinkedIn posts collected, every one annotated</li>
+      <li>YouTube transcripts collected and cleaned via automated pipeline</li>
+      <li>Original research PDFs added</li>
+      <li>Semantic search index built over the corpus</li>
+      <li>Annotation framework documented</li>
+      <li>Atomic commits throughout (one per author, one per phase)</li>
+    </ul>
+  </div>
+
   <div class="footer">
-    Project Step 1 Complete · Sivakrishnan M
+    Step 1 + Step 2 Complete · Sivakrishnan M
   </div>
 
 </div>
