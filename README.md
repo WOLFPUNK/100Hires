@@ -147,6 +147,7 @@ research/
 └── other/
 
 scripts/
-├── fetch_youtube.sh
-├── clean_transcripts.py
-└── build_search_index.py
+├── download-transcripts.sh     ← batch fetch from configured sources
+├── fetch_youtube.sh            ← yt-dlp wrapper for captions
+├── clean_transcripts.py        ← SRT → clean Markdown
+└── build_search_index.py       ← semantic search over the corpus
