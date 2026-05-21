@@ -1,4 +1,4 @@
-# AI-Powered SEO Content Production Research — Research Project
+# AI-Powered SEO Content Production Research Project
 
 A curated research base mapping how the strongest practitioners think about AI-powered SEO content production for **B2B SaaS** in 2026.
 
