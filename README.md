@@ -94,14 +94,14 @@ As the project progresses through future stages, the repository will continue ev
 
 ## Challenges & Troubleshooting
 
-During setup and indexing, several issues required troubleshooting and iterative fixes:
+During the initial workspace setup and indexing process, several issues required troubleshooting and iterative fixes:
 
 - Extension authentication inconsistencies between environments  
-- Repository indexing delays inside Cursor during initial project loading  
-- Transcript formatting inconsistencies while converting SRT files into structured Markdown  
-- Dependency and environment configuration adjustments for Python-based processing workflows  
+- Repository indexing delays during initial Cursor project loading  
+- Workspace configuration adjustments for stable AI-assisted development workflows  
+- Git repository synchronization and environment validation during setup  
 
-These issues were resolved through iterative debugging, environment validation, documentation review, and workflow refinement inside the AI-assisted development environment.
+These issues were resolved through iterative debugging, documentation review, environment validation, and workflow refinement inside the AI-assisted development environment.
 
 ---
 
