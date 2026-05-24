@@ -92,6 +92,19 @@ As the project progresses through future stages, the repository will continue ev
 
 ---
 
+## Challenges & Troubleshooting
+
+During setup and indexing, several issues required troubleshooting and iterative fixes:
+
+- Extension authentication inconsistencies between environments  
+- Repository indexing delays inside Cursor during initial project loading  
+- Transcript formatting inconsistencies while converting SRT files into structured Markdown  
+- Dependency and environment configuration adjustments for Python-based processing workflows  
+
+These issues were resolved through iterative debugging, environment validation, documentation review, and workflow refinement inside the AI-assisted development environment.
+
+---
+
 # 📚 Step 2 — AI-Powered SEO Content Production Research System
 
 Currently building a structured research system mapping how elite practitioners approach:
