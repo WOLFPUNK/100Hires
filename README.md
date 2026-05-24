@@ -2,7 +2,8 @@
 
 **B.Tech Computer Science Engineer**  
 **Associate Product Marketer @ Hexnode (Mitsogo)**  
-*AI-native workflows | Systems thinking | Fast execution*
+
+*AI-native workflows • Systems thinking • Fast execution*
 
 <p>
   <a href="https://linkedin.com/in/m-sivakrishnan">
@@ -23,19 +24,23 @@
 
 # 📌 Project Overview
 
-This repository documents the development of an **AI-native research and execution workflow** using modern AI-assisted tooling, structured knowledge systems, and semantic retrieval pipelines.
+This repository documents the development of a structured research and execution workflow using modern AI tooling, semantic retrieval systems, and annotation-driven knowledge synthesis.
 
-The objective was not simply using AI tools, but building a **high-leverage operating system for research, synthesis, and content production** — combining:
+The objective is not simply using AI tools, but building a high-leverage operating system for:
 
-- AI-assisted development workflows
-- Structured research systems
-- Semantic search infrastructure
-- Annotation-driven knowledge synthesis
+- Research
+- Synthesis
+- Retrieval
+- Strategy development
+- Content production workflows
 
-The repository evolved in two phases:
+The repository is currently progressing through two phases:
 
 1. **Step 1 → AI-native development environment setup**
 2. **Step 2 → AI-powered SEO content production research system**
+
+Currently exploring:
+> AI search visibility, semantic retrieval systems, and scalable research workflows.
 
 ---
 
@@ -43,16 +48,16 @@ The repository evolved in two phases:
 
 ## Development & AI Stack
 
-- **Cursor IDE** – AI-first development environment with deep codebase awareness  
-- **Claude Code Add-on** – Reasoning, debugging, structured synthesis  
-- **Codex Add-on** – Fast implementation and autocomplete support  
+- **Cursor IDE** — AI-first development environment with codebase-aware workflows  
+- **Claude Code Add-on** — Reasoning, debugging, and structured synthesis  
+- **Codex Add-on** — Fast implementation and autocomplete support  
 
 ## Research & Knowledge Stack
 
-- **yt-dlp** – Automated YouTube transcript collection  
-- **Python transcript cleaning pipeline** – SRT → normalized Markdown  
-- **sentence-transformers** (`all-MiniLM-L6-v2`) – Semantic embeddings and retrieval  
-- **Structured Markdown corpus** – Annotation-first research architecture  
+- **yt-dlp** — Automated YouTube transcript collection  
+- **Python transcript cleaning pipeline** — SRT → normalized Markdown  
+- **sentence-transformers (`all-MiniLM-L6-v2`)** — Semantic embeddings and retrieval  
+- **Structured Markdown corpus** — Annotation-first research architecture  
 
 ---
 
@@ -60,7 +65,7 @@ The repository evolved in two phases:
 
 ## Completed Tasks
 
-1. Installed Cursor IDE and configured it as the primary environment  
+1. Installed Cursor IDE and configured it as the primary development environment  
 2. Installed Claude Code extension and completed authentication  
 3. Installed Codex extension and completed authentication  
 4. Created a public GitHub repository  
@@ -70,62 +75,80 @@ The repository evolved in two phases:
 
 ---
 
-# 📚 Step 2 — AI-Powered SEO Content Production Research Project
+# 📚 Step 2 — AI-Powered SEO Content Production Research System
 
-Built a structured research system mapping how elite practitioners approach:
+Currently building a structured research system mapping how elite practitioners approach:
 
 > **AI-powered SEO content production for B2B SaaS in 2026**
 
-This was not a generic “SEO trends” collection.
-
-The project focused specifically on the intersection of:
+This project focuses specifically on the intersection of:
 
 - AI-assisted content systems
-- SEO/GEO/AEO evolution
+- SEO / GEO / AEO evolution
 - LLM visibility and retrieval
 - B2B SaaS editorial strategy
 - AI search measurement
 - Semantic authority systems
 
+The goal is not passive information storage, but creating a reusable research infrastructure for future synthesis and strategic analysis.
+
 ---
 
-## 🎯 Research Scope
+# 🚀 Current Progress
 
-The research base includes:
+Current progress includes:
+
+- Building a reusable semantic research pipeline for AI-search and B2B SaaS analysis  
+- Creating a structured annotation framework for strategy synthesis  
+- Experimenting with searchable knowledge infrastructure using embeddings and vector retrieval  
+- Developing scalable workflows for future SEO / GEO / AEO research  
+- Organizing multi-source research into a unified retrieval-friendly corpus  
+
+---
+
+# 🎯 Research Scope
+
+The current research base includes:
 
 - **30+ deeply annotated LinkedIn posts**
 - **10 carefully curated experts**
 - **YouTube transcripts**
 - **Original research PDFs**
-- **Semantic vector search over the full corpus**
+- **Semantic vector search experiments across the corpus**
 
-Every post was manually structured with:
+Each source is manually structured with:
 
 - Core claim
 - Evidence type
 - Cross-references
 - Playbook implication
 
-The goal was to create a system usable for **future strategy synthesis**, not just passive storage.
+The system is being designed for:
+- Retrieval
+- Comparison
+- Synthesis
+- Future playbook development
 
 ---
 
 # 🧠 Why These 10 Experts Were Selected
 
-I rejected generic “top SEO influencer” lists because they optimize for audience size, not for the specific intersection of:
+I rejected generic “top SEO influencer” lists because they optimize for audience size rather than the intersection of:
 
 > **AI + content production + B2B SaaS**
 
-The selection criteria focused on practitioners who:
+The selection focused on practitioners actively operating in:
+- AI-assisted search
+- Editorial systems
+- Semantic retrieval
+- B2B SaaS growth strategy
 
-1. **Ship real work** — operators, founders, consultants, or in-house leaders working at scale  
-2. **Publish consistently** — LinkedIn, YouTube, newsletters, podcasts, or research  
-3. Have at least one of:
-   - Original research
-   - Named client work
-   - Owned product/tool
-   - 5+ years of operating experience
-4. Remained actively publishing within the last 90 days
+Selection criteria included:
+
+1. Real operating experience  
+2. Consistent publishing cadence  
+3. Original research, tooling, product, or client work  
+4. Active publishing within the last 90 days  
 
 The experts were intentionally selected across multiple strategic lenses:
 
@@ -136,13 +159,13 @@ The experts were intentionally selected across multiple strategic lenses:
 | Aleyda Solís | Editorial curation systems | Authority-focused SEO workflows and SEOFOMO |
 | Bernard Huang | AEO/GEO tooling | Clear operational breakdowns of AI search visibility |
 | Michael King | Entity SEO & retrieval | Deep technical understanding of information retrieval |
-| Ross Hudgens | Editorial production systems | Design-led, scalable editorial operations |
+| Ross Hudgens | Editorial production systems | Design-led scalable editorial operations |
 | Andrew Holland | Brand mention authority | Research on brand mentions and ranking influence |
 | Alex Birkett | Research-driven SEO | Large-scale B2B SaaS citation studies |
 | Tim Soulo | Practical SEO execution | High-signal tactical SEO implementation |
 | Tom Critchlow | Executive SEO thinking | Strategic framing of AI search evolution |
 
-The objective was not collecting opinions — it was building a research base with enough depth, disagreement, and operational insight to support future synthesis and playbook development.
+The objective is not collecting opinions, but building a research base with enough operational depth, disagreement, and strategic insight to support future synthesis and playbook development.
 
 ---
 
@@ -158,7 +181,65 @@ research/
 └── other/
 
 scripts/
-├── download-transcripts.sh     ← batch fetch from configured sources
-├── fetch_youtube.sh            ← yt-dlp wrapper for captions
-├── clean_transcripts.py        ← SRT → clean Markdown
-└── build_search_index.py       ← semantic search over the corpus
+├── download-transcripts.sh
+├── fetch_youtube.sh
+├── clean_transcripts.py
+└── build_search_index.py
+```
+
+---
+
+# 🔍 Workflow Overview
+
+The workflow currently follows four major stages:
+
+1. **Collection**  
+   Gathering LinkedIn posts, YouTube transcripts, PDFs, and research material.
+
+2. **Normalization**  
+   Converting transcripts and raw material into structured Markdown documents.
+
+3. **Annotation & Structuring**  
+   Adding metadata, claims, evidence types, and strategic implications.
+
+4. **Semantic Retrieval**  
+   Generating embeddings and experimenting with vector-based search across the corpus.
+
+The current workflow is being designed to support:
+- Rapid synthesis
+- Strategic comparison
+- Topic clustering
+- AI-search research workflows
+
+---
+
+# 🧩 Core Concepts Explored
+
+- AI-assisted editorial workflows  
+- Semantic retrieval systems  
+- LLM citation visibility  
+- GEO (Generative Engine Optimization)  
+- AEO (Answer Engine Optimization)  
+- Entity-driven SEO  
+- Brand authority systems  
+- AI search measurement frameworks  
+- B2B SaaS content operations  
+
+---
+
+# 📈 Current Learnings
+
+This project has already reinforced several important ideas:
+
+- AI workflows become significantly more powerful when paired with structured knowledge systems  
+- Retrieval quality depends heavily on annotation quality and corpus organization  
+- AI-assisted research benefits from human curation, synthesis, and strategic framing  
+- Future SEO systems are increasingly shifting toward semantic authority and retrieval visibility rather than isolated keyword optimization  
+
+---
+
+# 🤝 Connect
+
+- LinkedIn: https://linkedin.com/in/m-sivakrishnan
+- Email: sivakrishnanm3979@gmail.com
+- GitHub: https://github.com/WOLFPUNK
