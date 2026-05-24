@@ -15,8 +15,8 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Interview-Req%20Step%201%20Complete-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interview-Req%20Step%202%20Complete-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-Req%20Step%201%20Complete-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-Req%20Step%202%20Complete-success?style=for-the-badge" />
 </p>
 
 ---
