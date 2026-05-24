@@ -110,28 +110,39 @@ The goal was to create a system usable for **future strategy synthesis**, not ju
 
 ---
 
-# 🧠 Experts Curated
+# 🧠 Why These 10 Experts Were Selected
 
-The 10 experts were selected based on:
+I rejected generic “top SEO influencer” lists because they optimize for audience size, not for the specific intersection of:
 
-- Active operational experience
-- Public research and frameworks
-- AI + SEO relevance
-- Recent publishing activity
-- Proven execution credibility
+> **AI + content production + B2B SaaS**
 
-| Expert | Strategic Lens |
-|---|---|
-| Kevin Indig | Data & AI search analysis |
-| Eli Schwartz | Product-led SEO strategy |
-| Aleyda Solís | Editorial curation systems |
-| Bernard Huang | AEO/GEO tooling |
-| Michael King | Entity SEO & retrieval |
-| Ross Hudgens | Editorial production systems |
-| Andrew Holland | Brand mention authority |
-| Alex Birkett | Research-driven SEO |
-| Tim Soulo | Practical SEO execution |
-| Tom Critchlow | Executive SEO thinking |
+The selection criteria focused on practitioners who:
+
+1. **Ship real work** — operators, founders, consultants, or in-house leaders working at scale  
+2. **Publish consistently** — LinkedIn, YouTube, newsletters, podcasts, or research  
+3. Have at least one of:
+   - Original research
+   - Named client work
+   - Owned product/tool
+   - 5+ years of operating experience
+4. Remained actively publishing within the last 90 days
+
+The experts were intentionally selected across multiple strategic lenses:
+
+| Expert | Strategic Lens | Why Included |
+|---|---|---|
+| Kevin Indig | Data & AI search analysis | Original AI Mode and LLM citation research |
+| Eli Schwartz | Product-led SEO strategy | Strategic counterweight to AI hype cycles |
+| Aleyda Solís | Editorial curation systems | Authority-focused SEO workflows and SEOFOMO |
+| Bernard Huang | AEO/GEO tooling | Clear operational breakdowns of AI search visibility |
+| Michael King | Entity SEO & retrieval | Deep technical understanding of information retrieval |
+| Ross Hudgens | Editorial production systems | Design-led, scalable editorial operations |
+| Andrew Holland | Brand mention authority | Research on brand mentions and ranking influence |
+| Alex Birkett | Research-driven SEO | Large-scale B2B SaaS citation studies |
+| Tim Soulo | Practical SEO execution | High-signal tactical SEO implementation |
+| Tom Critchlow | Executive SEO thinking | Strategic framing of AI search evolution |
+
+The objective was not collecting opinions — it was building a research base with enough depth, disagreement, and operational insight to support future synthesis and playbook development.
 
 ---
 
