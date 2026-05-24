@@ -44,6 +44,23 @@ Currently exploring:
 
 ---
 
+# 🎯 Project Intent
+
+This repository is being developed as a public portfolio project documenting the process of building AI-assisted research and execution workflows.
+
+The objective is not only completing technical tasks, but demonstrating:
+
+- Research methodology
+- Structured synthesis
+- Judgment and curation
+- AI-assisted workflow design
+- Knowledge organization
+- Semantic retrieval experimentation
+
+As the project progresses through future stages, the repository will continue evolving into a more complete research and execution system.
+
+---
+
 # 🛠️ Tools & Systems Used
 
 ## Development & AI Stack
